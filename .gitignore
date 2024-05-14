@@ -7,3 +7,5 @@ plots/*
 .ipynb_checkpoints/*
 .DS_Store
 whiteNoise/*
+movies/*
+__pycache__
