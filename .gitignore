@@ -8,3 +8,4 @@ plots/*
 .DS_Store
 whiteNoise/*
 movies/*
+__pycache__
